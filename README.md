@@ -26,7 +26,8 @@ pip install requests colorama
 
 # Clone o repositório:
 
-git clone https://github.com/K1r4-Fr13nd5/InternetProtocol-FS.git
+git clone https://github.com/K1r4Fr13nd5/InternetProtocol-FS.git
+
 cd InternetProtocol-FS
 
 # 🚀 Modo de Uso
